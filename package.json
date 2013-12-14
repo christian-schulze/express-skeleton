@@ -1,0 +1,26 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "jade": "*",
+    "coffee-script": "1.x",
+    "connect-assets": "git://github.com/adunkman/connect-assets.git#v3",
+    "less": "1.x"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": ">=0.7.0",
+    "grunt-contrib-watch": ">=0.5.3",
+    "grunt-coffeelint": ">=0.0.8",
+    "grunt": "0.x",
+    "istanbul": "~0.1.46",
+    "mocha": "1.x",
+    "chai": "1.x",
+    "wd": "0.x",
+    "spec_helper": "git://github.com/christian-schulze/spec_helper.git"
+  }
+}
