@@ -6,7 +6,7 @@ Features include:
 
 * [express](http://expressjs.com/) 3.x
 * [connect-assets](https://github.com/adunkman/connect-assets/tree/v3) for client side asset pipeline stuff (compiling, minifying)
-* [mocka](http://visionmedia.github.io/mocha/) and [chai](http://chaijs.com/) with promises ([mocka-as-promised](https://npmjs.org/package/mocha-as-promised), [chai-as-promised](https://npmjs.org/package/chai-as-promised)) for TDD
+* [mocka](http://mochajs.org/) and [chai](http://chaijs.com/) with promises ([mocka-as-promised](https://npmjs.org/package/mocha-as-promised), [chai-as-promised](https://npmjs.org/package/chai-as-promised)) for TDD
 * [wd](https://github.com/admc/wd) for driving browsers via selenium webdriver
 * [istanbul](https://github.com/gotwarlost/istanbul) for code coverage
 * [coffee-script](http://coffeescript.org/) because I enjoy writing coffeescript more than javascript
